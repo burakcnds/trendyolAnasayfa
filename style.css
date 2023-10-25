@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.headerust{
+    height: 20px;
+}
+.headerust ul li a{
+    text-decoration: none;
+    font-size: 11px;
+    color: gray;
+    
+}
+.headerust ul li{
+    list-style: none;
+    gap: 5px;
+}
+.arama{
+    background-color:#f3f3f3;
+    border-radius: 6px;
+    display: flex;
+    height: 42px;
+    width: 598px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+    
+}
+.aramabar{
+    border: none;
+    background-color:#f3f3f3;
+    height: 42px;
+    width: 598px;
+    
+}
+.header{
+    width: 100%;
+    background-color: #ffffff;
+}
+.hesapsepetfav{
+    margin-top: 40px;
+    margin-right: 60px;
+}
+.hesapsepetfav p{
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.altbar ul li{
+    list-style: none;
+
+}
+.altbar ul li a{
+    text-decoration: none;
+    color: #333333;
+    font-size: 14px;
+}
+a{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.markalar{
+    display: flex;
+    justify-content: center;
+}
+.marka{
+    width: 68px;
+    height: 68px;
+    border-radius: 100px;
+    overflow: hidden;
+    margin: 5px;
+    text-align: center;
+}
+.marka img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.marka p{
+    margin: 5px;
+    
+}
+.marka a{
+    display: block;
+    text-decoration: none;
+}
+.ucluresimler a img{
+    width: 387px;
+    height: 58px;
+}
+.reklam{
+    width: 408px;
+    height: 225px;
+    
+    
+   
+}
+.reklam img{
+    width: 383px;
+    height: 187px;
+}
+.reklam p{
+    width:383px;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+    
+}
+/* .reklamlar a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+   
+} */
+.coksatan{
+    width: 1200px;
+    height: 453px;
+    background-color: #fffaf6;
+    border: 1px solid #f2e5da;
+    border-radius: 10px;
+}
+.yildizli{
+    width: 1200px;
+    height: 453px;
+    background-color: #fffaf6;
+    border: 1px solid #f2e5da;
+    border-radius: 10px;
+}
+.ekranresim a img{
+    width: 226px;
+    height: 372px;
+}
+.metin{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 13px;
+}
+.footer{
+    
+    height: 452px;
+    background-color: black;
+}
+
+.mainfooter{
+    color: white;
+    
+
+}
+.mainfooter ul li a{
+    color: white;
+    text-decoration: none;
+    
+}
+.mainfooter ul li{
+    list-style: none;
+  
+    
+}
+.bcc{
+    margin: 100px;
+}
+.kredikart .kredi img{
+    width: 75px;
+    height: 30px;
+}
+.kredikart .social img{
+    width: 155px;
+    height: 40px;
+}
+.kredikart .logosocial img{
+    width: 30px;
+    height: 30px;
+}
+.kredikart .trust img{
+    width: 50px;
+    height: 50px;
+}
+.buton{
+         border: solid 1px #fff;
+         text-align: center;
+         font-size: 14px;
+         color: #fff;
+         font-family: 'Source Sans Pro', sans-serif;
+         background-color: #000;
+         border-radius: 6px;
+         width: 95px;
+}
+.bcc{
+    text-align: center;
+    align-items: flex-end;
+    bottom: 0;
+    background-color: #000;
+    color: white;
+    justify-content:center
+}
